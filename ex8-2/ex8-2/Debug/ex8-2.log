@@ -1,0 +1,2 @@
+﻿  ex8-2.cpp
+d:\development\sae\ex8-2\ex8-2\ex8-2\json.hpp(51): fatal error C1083: Impossible d'ouvrir le fichier include : 'nlohmann/adl_serializer.hpp' : No such file or directory
